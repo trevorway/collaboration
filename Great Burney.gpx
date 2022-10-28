@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1" 
+creator="Memory-Map 6.4.3.1278 https://memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xstyle="http://www.topografix.com/GPX/gpx_style/0/2"
+ xmlns:xgarmin="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<rte>
+<name>Great Burney</name>
+<src>mmid:608E05182A65BD2C</src>
+<type>Route</type>
+<extensions> <xstyle:line>
+<xstyle:color>0000ff</xstyle:color>
+<xstyle:opacity>1.0</xstyle:opacity>
+<xstyle:width>2.0</xstyle:width>
+<xstyle:pattern>Solid</xstyle:pattern>
+</xstyle:line></extensions>
+<rtept lat="54.2573892517" lon="-3.1383965669">
+<time>2022-10-17T20:33:50Z</time>
+<name>WP0101</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2576635056" lon="-3.1368096846">
+<time>2022-10-17T20:33:52Z</time>
+<name>WP0102</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2580339123" lon="-3.1360226549">
+<time>2022-10-17T20:33:53Z</time>
+<name>WP0103</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2581676677" lon="-3.1346680884">
+<time>2022-10-17T20:33:54Z</time>
+<name>WP0104</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2585054432" lon="-3.1336734422">
+<time>2022-10-17T20:33:55Z</time>
+<name>WP0105</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2593833464" lon="-3.1322211521">
+<time>2022-10-17T20:33:58Z</time>
+<name>WP0106</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2602016328" lon="-3.1315939672">
+<time>2022-10-17T20:33:59Z</time>
+<name>WP0107</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2619541753" lon="-3.1308742360">
+<time>2022-10-17T20:34:26Z</time>
+<name>WP0108</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2642806796" lon="-3.1316172033">
+<time>2022-10-17T20:34:31Z</time>
+<name>WP0109</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2657289951" lon="-3.1338423202">
+<time>2022-10-17T20:34:33Z</time>
+<name>WP0110</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2648215155" lon="-3.1347624100">
+<time>2022-10-17T20:34:34Z</time>
+<name>WP0111</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2640544985" lon="-3.1354500740">
+<time>2022-10-17T20:34:36Z</time>
+<name>WP0112</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2634758937" lon="-3.1363200843">
+<time>2022-10-17T20:34:37Z</time>
+<name>WP0113</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2631130023" lon="-3.1363100939">
+<time>2022-10-17T20:34:38Z</time>
+<name>WP0114</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="54.2634758937" lon="-3.1363200843">
+<time>2022-10-17T20:34:37Z</time>
+<name>WP0113</name>
+<sym>Dot</sym>
+<type>Waypoints</type>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+</rte>
+</gpx>
